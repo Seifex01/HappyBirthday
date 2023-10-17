@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Happy Birthday</string>
+    <string name="texto_felicidades">¡Felicidades Ruben!</string>
+    <string name="texto_firma">De parte de Josefe.</string>
 </resources>
